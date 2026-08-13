@@ -1,0 +1,11 @@
+# Language detection rules
+*.htm linguist-vendored
+
+yarn.lock linguist-generated
+*.svg text
+public/index.html linguist-vendored
+
+*.woff2 binary
+
+src/** linguist-detectable
+# eof c6bb25af
